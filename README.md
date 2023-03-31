@@ -4,3 +4,6 @@
 - Lemongrass
 - Cumin
 - Broth
+- Bacon
+- Eggs
+- Rice
