@@ -1,0 +1,6 @@
+- Chicken
+- Chick peas
+- Coconut Milk
+- Lemongrass
+- Cumin
+- Broth
